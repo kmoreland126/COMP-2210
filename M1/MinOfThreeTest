@@ -1,0 +1,25 @@
+import org.junit.Assert;
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+
+public class MinOfThreeTest {
+
+   @Test public void min1() {
+      int a = 2;
+      int b = 2;
+      int c = 3;
+      int expected = 2;
+      int actual = MinOfThree.min1(a, b, c);
+      assertEquals(expected, actual);
+   }
+       
+   @Test public void min2() {
+      int a = 2;
+      int b = 2;
+      int c = 3;
+      int expected = 2;
+      int actual = MinOfThree.min2(a, b, c);
+      assertEquals(expected, actual);
+   }
+}
