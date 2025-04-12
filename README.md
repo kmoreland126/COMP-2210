@@ -1,2 +1,5 @@
-# COMP-2210
-All of the assignments from COMP2210 at Auburn in Fall 2023
+# COMP 2210 - Fundamentals of Computing II
+## University
+Auburn University
+## Professor
+Dean Hendrix
